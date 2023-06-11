@@ -1,0 +1,42 @@
+main{
+  font-family: candara;
+}
+
+#image{
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 500px;
+  margin: auto;
+}
+figcaption{
+  text-align: center;
+  color: #2F1C6A;
+}
+#title{
+  font-size: 75px;
+  margin: auto; 
+  text-align: center
+}
+h4{
+  margin: 0 auto; 
+  text-align: center
+}
+ol{
+  list-style-type: lower-alpha;
+}
+ul{
+  list-style-type: square;
+}
+section{
+  width: 700px;
+  margin: auto;
+  font-size: 17px;
+  font-family: Sans-serif;
+}
+footer{
+  background-color:#f0f1fb;
+  line-height: 1.8;
+  color: #2F1C6A;
+  font-size: 17px;
+}
